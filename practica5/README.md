@@ -33,7 +33,7 @@ Fecha de creación: 3 de octubre de 2025 13:46
 - Productos iniciales: Laptop, Mouse, Teclado, Monitor, Webcam.
 - Verificación de registros insertados con `SELECT COUNT(*)`.
 
-![image.png](image.png)
+![image.png](imagenes/image.png)
 
 ---
 
