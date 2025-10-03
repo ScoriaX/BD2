@@ -1,3 +1,9 @@
+# BD2: practica 4
+
+Fecha de creación: 3 de octubre de 2025 12:19
+Clase: BD2
+Descripción: Diseño físico y particionamiento
+
 # Implementación y Análisis de Particionamiento en PostgreSQL
 
 ## Introducción
@@ -8,12 +14,12 @@
 
 ### 1. Configuración inicial del sistema
 
-#### 1.1 Extensiones habilitadas
+### 1.1 Extensiones habilitadas
 
 - `pg_stat_statements` (monitoreo de consultas).
 - `pgcrypto` (funciones criptográficas).
 
-#### 1.2 Parámetros de logging
+### 1.2 Parámetros de logging
 
 - `log_min_duration_statement = 1000` (registrar consultas >1s).
 - `log_statement = 'all'` (registro completo de consultas).
@@ -36,11 +42,11 @@
 
 - Consultas de estadísticas (`pg_stat_user_tables`).
 
-![Estadísticas iniciales](imagenes/estadisticas_iniciales.png)
+![image.png](image.png)
 
 - Medición de tamaño (`pg_size_pretty`).
 
-![Tamaño de tabla](imagenes/tamano_tabla.png)
+![image.png](image%201.png)
 
 ---
 
@@ -54,14 +60,14 @@
 
 - Índices en `cliente_id`, `producto_id`, `sucursal_id`.
 
-![Índices en particiones](imagenes/indices_particiones.png)
+![image.png](image%202.png)
 
 ### 3.3 Migración de datos
 
 - Inserción de datos desde `ventas_sin_particion` a `ventas_particionada`.
 - Verificación de distribución de registros.
 
-![Distribución de registros](imagenes/distribucion_registros.png)
+![image.png](image%203.png)
 
 ---
 
@@ -84,7 +90,7 @@
 - Inserción de datos correspondientes al año 2024.
 - Validación de distribución en subparticiones.
 
-![Distribución hash](imagenes/distribucion_hash.png)
+![image.png](image%204.png)
 
 ---
 
@@ -94,22 +100,25 @@
 
 - Comparación entre tabla sin partición y particionada.
 
-![Consulta sin partición](imagenes/consulta_sin_particion.png)  
-![Consulta particionada](imagenes/consulta_particionada.png)
+![image.png](image%205.png)
+
+![image.png](image%206.png)
 
 ### 5.2 Consultas específicas por cliente
 
 - Comparación entre tabla sin partición y tabla híbrida (hash).
 
-![Consulta cliente sin partición](imagenes/consulta_cliente_sin.png)  
-![Consulta cliente híbrida](imagenes/consulta_cliente_hibrida.png)
+![image.png](image%207.png)
+
+![image.png](image%208.png)
 
 ### 5.3 Partition pruning
 
 - Verificación del uso de `partition pruning`.
 
-![Partition pruning 1](imagenes/pruning1.png)  
-![Partition pruning 2](imagenes/pruning2.png)
+![image.png](image%209.png)
+
+![image.png](image%2010.png)
 
 ### 5.4 Registro de métricas
 
