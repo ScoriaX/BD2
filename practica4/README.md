@@ -1,7 +1,7 @@
 # BD2: practica 4
 
-Fecha de creación: 3 de octubre de 2025 12:19
-Clase: BD2
+Fecha de creación: 3 de octubre de 2025 12:19  
+Clase: BD2  
 Descripción: Diseño físico y particionamiento
 
 # Implementación y Análisis de Particionamiento en PostgreSQL
@@ -42,11 +42,11 @@ Descripción: Diseño físico y particionamiento
 
 - Consultas de estadísticas (`pg_stat_user_tables`).
 
-![image.png](image.png)
+![image.png](imagenes/image.png)
 
 - Medición de tamaño (`pg_size_pretty`).
 
-![image.png](image%201.png)
+![image.png](imagenes/image%201.png)
 
 ---
 
@@ -60,14 +60,14 @@ Descripción: Diseño físico y particionamiento
 
 - Índices en `cliente_id`, `producto_id`, `sucursal_id`.
 
-![image.png](image%202.png)
+![image.png](imagenes/image%202.png)
 
 ### 3.3 Migración de datos
 
 - Inserción de datos desde `ventas_sin_particion` a `ventas_particionada`.
 - Verificación de distribución de registros.
 
-![image.png](image%203.png)
+![image.png](imagenes/image%203.png)
 
 ---
 
@@ -90,7 +90,7 @@ Descripción: Diseño físico y particionamiento
 - Inserción de datos correspondientes al año 2024.
 - Validación de distribución en subparticiones.
 
-![image.png](image%204.png)
+![image.png](imagenes/image%204.png)
 
 ---
 
@@ -100,25 +100,25 @@ Descripción: Diseño físico y particionamiento
 
 - Comparación entre tabla sin partición y particionada.
 
-![image.png](image%205.png)
+![image.png](imagenes/image%205.png)
 
-![image.png](image%206.png)
+![image.png](imagenes/image%206.png)
 
 ### 5.2 Consultas específicas por cliente
 
 - Comparación entre tabla sin partición y tabla híbrida (hash).
 
-![image.png](image%207.png)
+![image.png](imagenes/image%207.png)
 
-![image.png](image%208.png)
+![image.png](imagenes/image%208.png)
 
 ### 5.3 Partition pruning
 
 - Verificación del uso de `partition pruning`.
 
-![image.png](image%209.png)
+![image.png](imagenes/image%209.png)
 
-![image.png](image%2010.png)
+![image.png](imagenes/image%2010.png)
 
 ### 5.4 Registro de métricas
 
