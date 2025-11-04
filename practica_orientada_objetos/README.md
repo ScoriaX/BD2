@@ -6,7 +6,7 @@ Descripción: Practica orientada a objetos
 
 ### PASO 4
 
-![image.png](image.png)
+![image.png](imagenes/image.png)
 
 ### RESUMEN - MODELADO RELACIONAL TRADICIONAL
 
