@@ -5,3 +5,5 @@ Repositorio de prácticas y proyectos correspondientes al curso de Base de Datos
 [Práctica 4: DISEÑO FÍSICO Y PARTICIONAMIENTO](./practica4)
 
 [Práctica 5: INTRODUCCIÓN AL PROCESAMIENTO DE TRANSACCIONES](./practica5)
+
+[Práctica: BASES DE DATOS ORIENTADAS A OBJETOS](./practica_orientada_objetos)
