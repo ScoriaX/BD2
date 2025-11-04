@@ -16,7 +16,7 @@ Numero de JOINS = 2
 
 ### PASO 8
 
-![image.png](image%201.png)
+![image.png](imagenes/image%201.png)
 
 ### RESUMEN - MODELADO OBJETO RELACIONAL
 
@@ -30,9 +30,9 @@ Numero de TYPES = 2
 
 ### PASO 9
 
-![image.png](image%202.png)
+![image.png](imagenes/image%202.png)
 
-![image.png](image%203.png)
+![image.png](imagenes/image%203.png)
 
 Resultados Idénticos
 
