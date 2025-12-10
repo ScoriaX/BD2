@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\registrarmembresia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\registrarmembresia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\registrarmembresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\registrarmembresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\utils\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\utils\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formmiembros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\registrarpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\registrarpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\registrarmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\registrarmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formprocesaracceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formprocesaracceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formeditarmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formeditarmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\services\\miembroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\services\\miembroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formeditarmiembro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formeditarmiembro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formprocesaracceso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formprocesaracceso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\registrarpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\registrarpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\registrarmiembro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\registrarmiembro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formmiembros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formmiembros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\forms\\formeditarmiembro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\forms\\formeditarmiembro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\services\\accesoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\services\\accesoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\services\\membresiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\services\\membresiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\models\\membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\models\\membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\models\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\models\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\sportsclubmembership.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\sportsclubmembership.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\models\\membresia_pendiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\models\\membresia_pendiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\models\\tipo_membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\models\\tipo_membresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|c:\\users\\piero\\source\\repos\\sportsclubmembership\\sportsclubmembership\\services\\tipomembresiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD3F11-C7BC-4E82-962E-379590AABC89}|SportsClubMembership\\SportsClubMembership.csproj|solutionrelative:sportsclubmembership\\services\\tipomembresiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIStyles.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Utils\\UIStyles.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Utils\\UIStyles.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Utils\\UIStyles.cs",
+              "RelativeToolTip": "SportsClubMembership\\Utils\\UIStyles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:28:22.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormEditarMiembro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormEditarMiembro.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormEditarMiembro.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormEditarMiembro.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormEditarMiembro.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwF4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:58:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormEditarMiembro.resx",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormEditarMiembro.resx",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormEditarMiembro.resx",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormEditarMiembro.resx",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormEditarMiembro.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-09T20:58:54.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEditarMiembro.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormEditarMiembro.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormEditarMiembro.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormEditarMiembro.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormEditarMiembro.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:58:50.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccesoService.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\AccesoService.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Services\\AccesoService.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\AccesoService.cs",
+              "RelativeToolTip": "SportsClubMembership\\Services\\AccesoService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:11:53.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProcesarAcceso.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormProcesarAcceso.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormProcesarAcceso.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormProcesarAcceso.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormProcesarAcceso.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:07:01.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProcesarAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormProcesarAcceso.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormProcesarAcceso.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormProcesarAcceso.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormProcesarAcceso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:06:42.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMiembros.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormMiembros.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormMiembros.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormMiembros.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormMiembros.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:49:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMiembros.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormMiembros.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\FormMiembros.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\FormMiembros.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\FormMiembros.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:43:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "acceso.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\acceso.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Models\\acceso.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\acceso.cs",
+              "RelativeToolTip": "SportsClubMembership\\Models\\acceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:11:06.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "SportsClubMembership\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:09:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TipoMembresiaService.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\TipoMembresiaService.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Services\\TipoMembresiaService.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\TipoMembresiaService.cs",
+              "RelativeToolTip": "SportsClubMembership\\Services\\TipoMembresiaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:14:50.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "membresia_pendiente.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\membresia_pendiente.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Models\\membresia_pendiente.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\membresia_pendiente.cs",
+              "RelativeToolTip": "SportsClubMembership\\Models\\membresia_pendiente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:01:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagoService.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\PagoService.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Services\\PagoService.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\PagoService.cs",
+              "RelativeToolTip": "SportsClubMembership\\Services\\PagoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:45:32.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pago.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\pago.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Models\\pago.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\pago.cs",
+              "RelativeToolTip": "SportsClubMembership\\Models\\pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:38:46.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrarPago.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarPago.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\RegistrarPago.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarPago.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\RegistrarPago.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:38:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrarPago.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarPago.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\RegistrarPago.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarPago.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\RegistrarPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:38:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\Home.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\Home.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:35:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\Home.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\Home.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\Home.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:35:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "tipo_membresia.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\tipo_membresia.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Models\\tipo_membresia.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\tipo_membresia.cs",
+              "RelativeToolTip": "SportsClubMembership\\Models\\tipo_membresia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:35:54.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Program.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Program.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Program.cs",
+              "RelativeToolTip": "SportsClubMembership\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:31:21.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "membresia.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\membresia.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Models\\membresia.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\membresia.cs",
+              "RelativeToolTip": "SportsClubMembership\\Models\\membresia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:09:02.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MembresiaService.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\MembresiaService.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Services\\MembresiaService.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\MembresiaService.cs",
+              "RelativeToolTip": "SportsClubMembership\\Services\\MembresiaService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:03:47.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrarMiembro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMiembro.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\RegistrarMiembro.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMiembro.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\RegistrarMiembro.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwHUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T21:56:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarMiembro.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMiembro.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\RegistrarMiembro.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMiembro.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\RegistrarMiembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:25:33.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiembroService.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\MiembroService.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Services\\MiembroService.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Services\\MiembroService.cs",
+              "RelativeToolTip": "SportsClubMembership\\Services\\MiembroService.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAqwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:31:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarMembresia.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMembresia.Designer.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\RegistrarMembresia.Designer.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMembresia.Designer.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\RegistrarMembresia.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:26:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarMembresia.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMembresia.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Forms\\RegistrarMembresia.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Forms\\RegistrarMembresia.cs",
+              "RelativeToolTip": "SportsClubMembership\\Forms\\RegistrarMembresia.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:25:18.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "miembro.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\miembro.cs",
+              "RelativeDocumentMoniker": "SportsClubMembership\\Models\\miembro.cs",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\Models\\miembro.cs",
+              "RelativeToolTip": "SportsClubMembership\\Models\\miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:21:10.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SportsClubMembership.csproj",
+              "DocumentMoniker": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\SportsClubMembership.csproj",
+              "RelativeDocumentMoniker": "SportsClubMembership\\SportsClubMembership.csproj",
+              "ToolTip": "C:\\Users\\Piero\\source\\repos\\SportsClubMembership\\SportsClubMembership\\SportsClubMembership.csproj",
+              "RelativeToolTip": "SportsClubMembership\\SportsClubMembership.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T18:14:25.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
